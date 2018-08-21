@@ -2,30 +2,27 @@
   <mj-head>
     <mj-title>SHPE 1st Prof Email</mj-title>
     <mj-attributes>
-      <mj-all font-family="Arial" />
+      <mj-all font-family="Arial" padding="5px 5px"/>
       <mj-class name="sectionHeader" font-family="Arial" align="center" font-weight="bold" font-size="20px"/>
       <mj-class name="white" color="white"/>
       <mj-class name="blue" color="#182857" />
       <mj-class name="orange" color="#F4835C" />
+      <mj-class name="noPadding" padding="0px 25px" />
     </mj-attributes>
   </mj-head>
 
-  <mj-body background-color="#001F5B" padding="0">
-    <mj-section padding="0 15px">
-      <mj-column vertical-align="top" width="66%">
-        <mj-text font-weight="700" font-size="10px" mj-class="white" align="left">
-          Society of Hispanic Professional Engineers - University of Houston
-        </mj-text>
-      </mj-column>
-      <mj-column vertical-align="top" width="33%">
-        <mj-text font-weight="700" font-size="10px" mj-class="white" align="right">
-          Professional Newsletter
+  <mj-body background-color="#FFFFFF">
+
+    <mj-section background-color="#182857">
+      <mj-column vertical-align="top">
+        <mj-text font-weight="700" font-size="10px" mj-class="white" align="center">
+          Society of Hispanic Professional Engineers - University of Houston - Professional Newsletter
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#FFFFFF">
       <mj-column>
-      <mj-text align="center" padding="0px 15px" font-size="70px" font-weight="700" font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif">
+      <mj-text align="center" font-size="70px" font-weight="700" font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif">
         <span style="color:#182857;">SHPE</span><div style="display:inline-block; border-left:5px solid #888B8D; padding-left:10px;margin-left:10px;"</div><span style="color:#C8102E;"> UH</span>
       </mj-text>
       <mj-text align="center" font-size="18px" font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif" padding="0px 25px">
@@ -36,7 +33,7 @@
 
     <mj-section background-color="#FFFFFF">
       <mj-column>
-        <mj-text mj-class="sectionHeader blue" padding="5px 25px">
+        <mj-text mj-class="sectionHeader blue noPadding">
           Dear SHPE Professionals and Alumni,
         </mj-text>
         <mj-text line-height="20px">
@@ -46,11 +43,17 @@
           As such, I hope to form meaningful relationships with all of you and continue to get your support in promoting the growth of our members. At the end of the day, it is people like <strong>you</strong> who have built the path and set the examples we follow. 
         </mj-text>
         <mj-text line-height="20px">
-          We're excited to start executing on the plans made during the Summer and want to thank you for your continued support. Please take this email as a cordial invitation to all of our events this semester. 
+          We're excited to start executing on the plans made during the Summer and want to thank you for your continued support. Please take this email as a cordial invitation to all our events this semester. 
         </mj-text>
         <mj-text line-height="20px" font-weight="700">
           Additionally, we'd like to once more congratulate those that have gone from students to professionals, making the transition that all of us aspire to make!
         </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column padding="0px">
+        <mj-divider border-width="1px" border-style="solid" border-color="red" />
       </mj-column>
     </mj-section>
     
@@ -79,24 +82,27 @@
           </mj-column>
         </mj-section>
     
+    <mj-section padding="0px">
+      <mj-column padding="0px">
+        <mj-divider border-width="1px" border-style="solid" border-color="red" />
+      </mj-column>
+    </mj-section>
+
       <mj-section background-color="#FFFFFF" padding="0px">
           <mj-column>
             <mj-text mj-class="blue sectionHeader" font-size="30px">
               Career Fair Prep
             </mj-text>
             <mj-text line-height="20px">
-              Development and support of our members has always been the key to our success, and as in previous years we will be hosting a <strong>Career Fair Prep and Resume Workshop</strong> to sharpen resumes and provide guidance previous to the UH Career Fairs.
+              Development and support of our members has always been the key to our success, and as in previous years we will be hosting a <strong>Career Fair Prep and Resume Workshop</strong> to sharpen resumes and provide guidance before the UH Career Fairs.
             </mj-text>
             <mj-text line-height="20px">
-              If you are interested in coming to provide resume or interview advice to students, please click below. We're always looking fore more professionals to attend our events!
+              If you are interested in coming to provide resume or interview advice to students, please click below. We're always looking for more professionals to attend our events!
             </mj-text>
-            <mj-button href="https://goo.gl/forms/kbCwqMjHZ1vz9YFA2"> 
-              Professional Sign Up - Career Fair Prep
-            </mj-button>
           </mj-column>
         </mj-section>
 
-        <mj-section background-color="white" padding="0px">
+        <mj-section>
           <mj-column>
             <mj-text align="center" padding="0 25px" line-height="20px" font-weight="700">
             Career Fair Prep and Resume Workshop
@@ -107,8 +113,17 @@
           <mj-text align="center" padding="0px 25px 10px 25px" line-height="20px" font-weight="700">
             Student Center South, Space City Room
           </mj-text>
+          <mj-button href="https://goo.gl/forms/kbCwqMjHZ1vz9YFA2"> 
+              Professional Sign Up - Career Fair Prep
+            </mj-button>
           </mj-column>
         </mj-section>
+
+<mj-section padding="0px">
+      <mj-column padding="0px">
+        <mj-divider border-width="1px" border-style="solid" border-color="red" />
+      </mj-column>
+    </mj-section>
 
       <mj-section background-color="#FFFFFF" padding="0px">
           <mj-column>
@@ -134,12 +149,28 @@
         </mj-section>
     </mj-wrapper>
 
-    <mj-section>
-      
+
+<mj-section  padding="0" background-color="#E8E8E8">
+      <mj-column width="150px">
+        <mj-image height="150px" align="center" border-radius="50%" src="https://gallery.mailchimp.com/79b1503c062d14766bbb757ae/images/b9b0122a-9970-49ed-8acf-7bf6f30897d2.png" alt="Ricardo Useche" container-background-color="#E8E8E8"/>
+      </mj-column>
+      <mj-column width="400px" background-color="#E8E8E8">
+      <mj-image src="https://gallery.mailchimp.com/79b1503c062d14766bbb757ae/images/7ff79503-499a-4867-9004-e6ea6472abf2.png" alt="" />
+        <mj-text font-family="Arial" color="#4B575D" align="center" font-weight="700">
+          Society of Hispanic Professional Engineers
+        </mj-text>
+        <mj-text font-family="Arial" color="#4B575D" align="center" font-weight="700">
+          University of Houston
+        </mj-text>
+      </mj-column>
     </mj-section>
-
-    
-
+    <mj-section background-color="#182857" padding="10px 0">
+        <mj-column>
+            <mj-text font-family="Arial" align="center" color="white" padding="0px 20px" >
+          Ricardo Useche · Professional Chair · <a style="color: #CCEEFF;" href="mailto:riuseche24@gmail.com">riuseche24@gmail.com</a> · 713-410-4975
+        </mj-text>
+        </mj-column>
+    </mj-section>
     
   </mj-body>
 </mjml>
