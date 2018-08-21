@@ -1,120 +1,146 @@
 <mjml>
   <mj-head>
-    <mj-title>Shay Intro Email</mj-title>
+    <mj-title>SHPE 1st Prof Email</mj-title>
     <mj-attributes>
       <mj-all font-family="Arial" />
+      <mj-class name="sectionHeader" font-family="Arial" align="center" font-weight="bold" font-size="20px"/>
+      <mj-class name="white" color="white"/>
+      <mj-class name="blue" color="#182857" />
+      <mj-class name="orange" color="#F4835C" />
     </mj-attributes>
   </mj-head>
-  <mj-body background-color="#FFFFFF" padding="0">
-    <mj-section background-color="#FFFFFF" padding="0 0px">
-      <mj-column padding="0px">
-        <mj-image width="400px" src="https://gallery.mailchimp.com/79b1503c062d14766bbb757ae/images/f2e706c3-d403-4593-a154-91892766daae.png" href="http://engieenergyrevolution.com/" alt="ENGIE Logo" padding="10px" href="" />
+
+  <mj-body background-color="#001F5B" padding="0">
+    <mj-section padding="0 15px">
+      <mj-column vertical-align="top" width="66%">
+        <mj-text font-weight="700" font-size="10px" mj-class="white" align="left">
+          Society of Hispanic Professional Engineers - University of Houston
+        </mj-text>
+      </mj-column>
+      <mj-column vertical-align="top" width="33%">
+        <mj-text font-weight="700" font-size="10px" mj-class="white" align="right">
+          Professional Newsletter
+        </mj-text>
       </mj-column>
     </mj-section>
-
-    <mj-hero mode="fixed-height" height="469px" background-width="600px" background-height="469px" background-url="https://gallery.mailchimp.com/79b1503c062d14766bbb757ae/images/f6392b24-b6ab-4486-90d6-eb8fc2a3a078.jpeg" background-color="#00AAFF" padding="100px 0px">
-      <mj-text padding="20px" color="#ffffff" font-family="Arial" align="center" font-size="30px" line-height="45px" font-weight="900" background-color="#F4835C">
-        SHPE-UH Announces New Eboard Ahead of 2018-2019 year.
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+      <mj-text align="center" padding="0px 15px" font-size="70px" font-weight="700" font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif">
+        <span style="color:#182857;">SHPE</span><div style="display:inline-block; border-left:5px solid #888B8D; padding-left:10px;margin-left:10px;"</div><span style="color:#C8102E;"> UH</span>
       </mj-text>
-      <mj-button href="http://engieenergyrevolution.com/" align="center" background-color="#173369" font-size="14px">
-        Proud of the past. Excited about the future.
-      </mj-button>
-    </mj-hero>
+      <mj-text align="center" font-size="18px" font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif" padding="0px 25px">
+        <span style="text-transform:uppercase;color:#C8102E;">University of Houston</span>
+      </mj-text>
+      </mj-column>
+    </mj-section>
 
     <mj-section background-color="#FFFFFF">
       <mj-column>
-        <mj-text font-family="Arial" align="center" font-weight="bold" font-size="20px" padding="5px 25px">
-          ENGIE is creating a better world for you through innovative energy solutions.
+        <mj-text mj-class="sectionHeader blue" padding="5px 25px">
+          Dear SHPE Professionals and Alumni,
+        </mj-text>
+        <mj-text line-height="20px">
+          My name is Ricardo Useche. I am a Computer Science student at the University of Houston and will be serving as our Chapter's Professional Chair for the 2018-2019 year.
+        </mj-text>
+        <mj-text line-height="20px">
+          As such, I hope to form meaningful relationships with all of you and continue to get your support in promoting the growth of our members. At the end of the day, it is people like <strong>you</strong> who have built the path and set the examples we follow. 
+        </mj-text>
+        <mj-text line-height="20px">
+          We're excited to start executing on the plans made during the Summer and want to thank you for your continued support. Please take this email as a cordial invitation to all of our events this semester. 
+        </mj-text>
+        <mj-text line-height="20px" font-weight="700">
+          Additionally, we'd like to once more congratulate those that have gone from students to professionals, making the transition that all of us aspire to make!
         </mj-text>
       </mj-column>
     </mj-section>
+    
+    <mj-wrapper>
+      <mj-section background-color="#FFFFFF" padding="0px">
+          <mj-column>
+            <mj-text mj-class="blue sectionHeader" font-size="30px">
+              First General Meeting
+            </mj-text>
+            <mj-text line-height="20px">
+              The first general meeting of the semester will take place August 30th. We're excited to have guests from <strong>Cummins Inc.</strong> come to share information and their experiences with us. Free food will be provided so don't worry about grabbing dinner!
+          </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section background-color="white" padding="0px">
+          <mj-column>
+            <mj-text align="center" padding="0 25px" line-height="20px" font-weight="700">
+            SHPE 1st General Meeting, Cummins Speakers
+          </mj-text>
+          <mj-text align="center" padding="0 25px" line-height="20px" font-weight="700">
+            Thursday, August 30th,  7 PM - 9PM
+          </mj-text>
+          <mj-text align="center" padding="0px 25px 10px 25px" line-height="20px" font-weight="700">
+            Agnes Arnold Auditorium 2
+          </mj-text>
+          </mj-column>
+        </mj-section>
+    
+      <mj-section background-color="#FFFFFF" padding="0px">
+          <mj-column>
+            <mj-text mj-class="blue sectionHeader" font-size="30px">
+              Career Fair Prep
+            </mj-text>
+            <mj-text line-height="20px">
+              Development and support of our members has always been the key to our success, and as in previous years we will be hosting a <strong>Career Fair Prep and Resume Workshop</strong> to sharpen resumes and provide guidance previous to the UH Career Fairs.
+            </mj-text>
+            <mj-text line-height="20px">
+              If you are interested in coming to provide resume or interview advice to students, please click below. We're always looking fore more professionals to attend our events!
+            </mj-text>
+            <mj-button href="https://goo.gl/forms/kbCwqMjHZ1vz9YFA2"> 
+              Professional Sign Up - Career Fair Prep
+            </mj-button>
+          </mj-column>
+        </mj-section>
 
-    <mj-section background-color="#FFFFFF" padding="5px 25px">
-      <mj-column width="130px">
-        <mj-text align="center" font-size="28px">
-          01
-        </mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-text font-family="Arial" align="center" color="#00AAFF" font-size="20px" padding="0 5px" font-weight="bold">
-          Decentralization
-        </mj-text>
-        <mj-text color="#0078BE" font-weight="bold" align="center">
-          Energy produced and stored the closest possible to the location of consumption.
-        </mj-text>
-      </mj-column>
-    </mj-section>
+        <mj-section background-color="white" padding="0px">
+          <mj-column>
+            <mj-text align="center" padding="0 25px" line-height="20px" font-weight="700">
+            Career Fair Prep and Resume Workshop
+          </mj-text>
+          <mj-text align="center" padding="0 25px" line-height="20px" font-weight="700">
+            Friday, August 31st,  12 PM - 4PM
+          </mj-text>
+          <mj-text align="center" padding="0px 25px 10px 25px" line-height="20px" font-weight="700">
+            Student Center South, Space City Room
+          </mj-text>
+          </mj-column>
+        </mj-section>
 
-    <mj-section background-color="#FFFFFF" padding="5px 25px">
-      <mj-column width="130px">
-        <mj-image src="https://i.imgur.com/FbJ9FWd.png" alt="" align="center" padding="0 25px" />
-      </mj-column>
-      <mj-column>
-        <mj-text font-family="Arial" align="center" color="#96BE0F" font-size="20px" padding="0 5px" font-weight="bold">
-          Decarbonization
-        </mj-text>
-        <mj-text color="#0078BE" font-weight="bold" align="center">
-          Oil and coal replaced by renewables and natural gas to reduce emissions.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="#FFFFFF" padding="5px 25px">
-      <mj-column width="130px">
-        <mj-image src="https://i.imgur.com/LjfrxDU.png" alt="" align="center" padding="0 25px" />
-      </mj-column>
-      <mj-column>
-        <mj-text font-family="Arial" align="center" color="#F07D00" font-size="20px" padding="0 5px" font-weight="bold">
-          Digitization
-        </mj-text>
-        <mj-text color="#0078BE" font-weight="bold" align="center">
-          Big data and digital tools for energy efficiency and network management.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section  padding="0" background-color="#E8E8E8">
-      <mj-column width="200px">
-        <mj-image align="center" border-radius="50%" src="https://storage.pardot.com/481341/76897/shay_circle.png" alt="Shay Ohrel" container-background-color="#E8E8E8"/>
-      </mj-column>
-      <mj-column width="400px" background-color="#E8E8E8">
-        <mj-text font-family="Arial" color="#4B575D" font-weight="bold">
-          Global energy solutions, driving sustainability, savings, and risk mitigation.
-        </mj-text>
-        <mj-text font-family="Arial" color="#54585A">
-          We're addressing key trends taking shape in our rapidly changing energy environment. The landscape of the future will look very different that it does today, and we are developing the formula to drive new value forward for our costumers.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="#00AAFF" padding="10px 0">
-        <mj-column width="200px">
-            <mj-text font-family="Arial" align="center" font-size="20px" color="white" padding="0px 25px" >
-          Shay Ohrel
-        </mj-text>
-        <mj-text font-family="Arial" align="center" font-size="15px" color="#CCEEFF" padding="0px 25px">
-          Sr. Director, Solutions
-        </mj-text>
-        </mj-column>
-        <mj-column width="400px">
-        <mj-text align="right">
-            <a style="color: #CCEEFF;" href="mailto:shay.ohrel@engie.com">Shay.Ohrel@engie.com</a>
-        </mj-text>
-
-        </mj-column>
-    </mj-section>
+      <mj-section background-color="#FFFFFF" padding="0px">
+          <mj-column>
+            <mj-text mj-class="blue sectionHeader" font-size="30px">
+              Professional Mentor Program
+            </mj-text>
+            <mj-text line-height="20px">
+              As you may know, we have had a <a href="https://www.instagram.com/p/BinlAd3AbDi/?tagged=mentorshpe">pretty</a> <a href="https://www.instagram.com/p/Bkyk2TFgblC/?taken-by=shpenational">successful</a> <a href="https://www.instagram.com/p/Bg7eyVoFA8u/?tagged=mentorshpe">MentorSHPE</a> program where upperclassmen provide support for other SHPE-UH members. Be it helping with a tough class or having someone to rely on during rough times, mentors and mentees have worked together to achieve success in a variety of ways. 
+            </mj-text>
+            <mj-text line-height="20px">
+              We are taking this further by having Alumni/Professionals take on the mentor role. The goal of the program is simple: connect with our students and share the type of knowledge you only gain outside of school. 
+            </mj-text>
+            <mj-text line-height="20px">
+              We have tentatively selected two dates to hold Professional Mentor Socials: Tuesday, Oct 16 and Friday, Nov 16.
+            </mj-text>
+            <mj-text line-height="20px">
+              Our hope is to have a few Professionals join this initiative and then announce this program at the 1st General Meeting. We will then open applications for students and pick a small subset of quality candidates to match with professionals. Join below!
+            </mj-text>
+            <mj-button href="https://goo.gl/forms/2dJi8PC6QPD4bgwF2"> 
+              I want to be a Mentor!
+            </mj-button>
+          </mj-column>
+        </mj-section>
+    </mj-wrapper>
 
     <mj-section>
-      <mj-column>
-        <mj-text font-family="Arial" align="left" color="#00AAFF" font-size="14px" padding="0 5px" font-weight="bold">
-          About ENGIE North America
-        </mj-text>
-        <mj-text align="left" padding="0 5px" font-size="10px">
-          ENGIE North America Inc. manages a range of energy businesses in the United States and Canada, including clean power generation and cogeneration, retail energy sales, and comprehensive services to help customers run their facilities more efficiently and
-          optimize energy and other resource use and expense. Nearly 100 percent of the company’s power generation portfolio is low carbon or renewable.
-        </mj-text>
-      </mj-column>
+      
     </mj-section>
+
+    
+
+    
   </mj-body>
 </mjml>
 
