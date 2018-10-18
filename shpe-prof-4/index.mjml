@@ -1,0 +1,207 @@
+<mjml>
+    <mj-head>
+        <mj-title>SHPE 5th Prof Email</mj-title>
+        <mj-attributes>
+            <mj-all font-family="Arial" padding="5px 5px" />
+            <mj-class name="sectionHeader" font-family="Arial" align="center" font-weight="bold" font-size="20px" />
+            <mj-class name="white" color="white" />
+            <mj-class name="blue" color="#182857" />
+            <mj-class name="orange" color="#F4835C" />
+            <mj-class name="noPadding" padding="0px 25px" />
+        </mj-attributes>
+    </mj-head>
+
+    <mj-body background-color="#FFFFFF">
+
+        <mj-section background-color="#182857">
+            <mj-column vertical-align="top">
+                <mj-text font-weight="700" font-size="10px" mj-class="white" align="center">
+                    Society of Hispanic Professional Engineers - University of Houston - Professional Newsletter
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF">
+            <mj-column>
+                <mj-text align="center" font-size="70px" font-weight="700" font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif">
+                    <span style="color:#182857;">SHPE</span>
+                    <div style="display:inline-block; border-left:5px solid #888B8D; padding-left:10px;margin-left:10px;"
+                        </div> <span style="color:#C8102E;"> UH</span>
+                </mj-text>
+                <mj-text align="center" font-size="18px" font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif"
+                    padding="0px 25px">
+                    <span style="text-transform:uppercase;color:#C8102E;">University of Houston</span>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#FFFFFF">
+            <mj-column>
+                <mj-text mj-class="sectionHeader blue noPadding" line-height="20px">
+                    Dear SHPE Professionals and Alumni,
+                </mj-text>
+                <mj-text line-height="20px">
+                    We hope your fall is going as good as ours! SHPE-UH has really had an amazing run this semester.
+                    Students have had the chance of touring facilities, meeting and sharing with Professional
+                    SHPEtinas, and volunteering with high schoolers as well as dogs!
+                </mj-text>
+                <mj-text line-height="20px">
+                    Things don't stop there however! In celebration of Hispanic Heritage Month, a <a href="https://www.instagram.com/p/Bob6qofnw7i/?hl=en&taken-by=uhengineering">few</a>
+                    <a href="https://www.instagram.com/p/Bot667Pn-qZ/?hl=en&taken-by=uhengineering">of our</a> <a href="https://www.instagram.com/p/Bo9WZkQnmIY/?hl=en&taken-by=uhengineering">members</a>
+                    have been featured by the Cullen College of Engineering. Read more about some of them in the
+                    previous links!
+                </mj-text>
+                <mj-text line-height="20px">
+                    All in all, <strong>we're doing big things.</strong>
+                </mj-text>
+                <mj-text line-height="20px">
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="0px">
+            <mj-column padding="0px">
+                <mj-divider border-width="1px" border-style="solid" border-color="red" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column width="250px" padding="0">
+                <mj-image padding="0" src="https://gallery.mailchimp.com/79b1503c062d14766bbb757ae/images/6bde02cf-173e-42cc-a0af-a6cdfedf13a2.jpg"
+                    alt="" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#FFFFFF" padding="0px">
+            <mj-column>
+                <mj-text mj-class="blue sectionHeader" font-size="30px">
+                    Fifth General Meeting
+                </mj-text>
+                <mj-text line-height="20px">
+                    <strong>Dow Chemical</strong> will be coming to our fifth general meeting of the semester to
+                    interface with students and share industry advice. This will be taking place on October 25th, 7PM
+                    to 9PM at the College of Social Work. Come see us and learn more about the oingoing activities at
+                    SHPE-UH.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="white" padding="0px">
+            <mj-column>
+                <mj-text align="center" padding="0 25px" line-height="20px" font-weight="700">
+                    SHPE 5th General Meeting: Presenting Dow Chemical
+                </mj-text>
+                <mj-text align="center" padding="0 25px" line-height="20px" font-weight="700">
+                    Thursday, October 25thth, 7 PM - 9PM
+                </mj-text>
+                <mj-text align="center" padding="0px 25px 10px 25px" line-height="20px" font-weight="700">
+                    <a href="https://www.google.com/maps/place/University+of+Houston+Graduate+College+of+Social+Work/@29.7227346,-95.3438379,15z/data=!4m2!3m1!1s0x0:0x26f2fc55cb339598?sa=X&sqi=2&ved=2ahUKEwip-MLPoIreAhVG2FMKHVlmBm0Q_BIwDXoECAcQCw">College
+                        of Social Work</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="0px">
+            <mj-column padding="0px">
+                <mj-divider border-width="1px" border-style="solid" border-color="red" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#FFFFFF" padding="0px">
+            <mj-column>
+                <mj-text mj-class="blue sectionHeader" font-size="30px">
+                    GMiS HENAAC Conference
+                </mj-text>
+                <mj-text line-height="20px">
+                    A number of our members will be heading out to LA for HENAAC 2018. We'll be having a pre-conference
+                    workshop where SHPEsters that have been to HENAAC or similar conferences will share tips with those
+                    attending this year. Preparation is key!
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section padding="0px">
+            <mj-column padding="0px">
+                <mj-divider border-width="1px" border-style="solid" border-color="red" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#FFFFFF" padding="0px">
+            <mj-column>
+                <mj-text mj-class="blue sectionHeader" font-size="30px">
+                    Professional Mentor Coffee Chat
+                </mj-text>
+                <mj-text line-height="20px">
+                    The first Coffee Chat of the semester will be on 10/16/2018 at 7PM. We'll be meeting with a few
+                    professionals at The Nook to talk about work, school and life in general. At this event
+                    professionals are not coming representing their companies, but themselves!
+                </mj-text>
+
+                <mj-text line-height="20px" font-weight="700" align="center">
+                    Please consider joining this program. You could change the lives of students for the best!
+                </mj-text>
+                <mj-button href="https://goo.gl/forms/2dJi8PC6QPD4bgwF2">
+                    Sign up for the next event, taking place Nov 16th.
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="0px">
+            <mj-column padding="0px">
+                <mj-divider border-width="1px" border-style="solid" border-color="red" />
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF" padding="0px">
+            <mj-column>
+                <mj-text mj-class="blue sectionHeader" font-size="30px">
+                    Professional Funds Tracker
+                </mj-text>
+                <mj-text line-height="20px">
+                    We are currently at about 8% of the fundraising goal set by professionals and alumni. Your efforts
+                    and contributions provide us with the financial stability to do what we do, so keep it up! Your
+                    help is appreciated!
+                </mj-text>
+                <mj-text line-height="20px">
+                    For donations contact Jose Silvestre, our Treasurer: <a href="mailto:treasurer@shpeuh.org">treasurer@shpeuh.org</a>.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0px">
+            <mj-column width="600px">
+                <mj-image src="https://gallery.mailchimp.com/79b1503c062d14766bbb757ae/images/31e3eea6-7ba7-434c-b453-d5821f030f5b.gif"
+                    alt="Funds tracker" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="0px">
+            <mj-column padding="0px">
+                <mj-divider border-width="1px" border-style="solid" border-color="red" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="0" background-color="#E8E8E8">
+            <mj-column width="150px">
+                <mj-image height="150px" align="center" border-radius="50%" src="https://gallery.mailchimp.com/79b1503c062d14766bbb757ae/images/b9b0122a-9970-49ed-8acf-7bf6f30897d2.png"
+                    alt="Ricardo Useche" container-background-color="#E8E8E8" />
+            </mj-column>
+            <mj-column width="400px" background-color="#E8E8E8">
+                <mj-image src="https://gallery.mailchimp.com/79b1503c062d14766bbb757ae/images/7ff79503-499a-4867-9004-e6ea6472abf2.png"
+                    alt="" />
+                <mj-text font-family="Arial" color="#4B575D" align="center" font-weight="700">
+                    Society of Hispanic Professional Engineers
+                </mj-text>
+                <mj-text font-family="Arial" color="#4B575D" align="center" font-weight="700">
+                    University of Houston
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#182857" padding="10px 0">
+            <mj-column>
+                <mj-text font-family="Arial" align="center" color="white" padding="0px 20px">
+                    Ricardo Useche · Professional Chair · <a style="color: #CCEEFF;" href="mailto:riuseche24@gmail.com">riuseche24@gmail.com</a>
+                    · 713-410-4975
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+    </mj-body>
+</mjml>
